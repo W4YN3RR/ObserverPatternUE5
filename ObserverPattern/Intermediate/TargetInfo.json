@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ObserverPattern",
+			"Path": "C:\\Users\\W4YN3R\\Documents\\Unreal Projects\\ObserverPattern\\Source\\ObserverPattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ObserverPatternEditor",
+			"Path": "C:\\Users\\W4YN3R\\Documents\\Unreal Projects\\ObserverPattern\\Source\\ObserverPatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

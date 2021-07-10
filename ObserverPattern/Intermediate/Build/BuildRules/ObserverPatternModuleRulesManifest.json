@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\W4YN3R\\Documents\\Unreal Projects\\ObserverPattern\\Source\\ObserverPattern\\ObserverPattern.Build.cs",
+		"C:\\Users\\W4YN3R\\Documents\\Unreal Projects\\ObserverPattern\\Source\\ObserverPattern.Target.cs",
+		"C:\\Users\\W4YN3R\\Documents\\Unreal Projects\\ObserverPattern\\Source\\ObserverPatternEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObserverPattern-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\ObserverPatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPattern.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverModeBase.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPatternCharacter.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPatternGameMode.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\SubjectCharacter.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverModeBase.gen.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPattern.init.gen.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPatternCharacter.gen.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\ObserverPatternGameMode.gen.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\SubjectCharacter.gen.cpp.obj"
+"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\Default.rc2.res"
+/OUT:"C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\UnrealEditor-ObserverPattern-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_ObserverPattern

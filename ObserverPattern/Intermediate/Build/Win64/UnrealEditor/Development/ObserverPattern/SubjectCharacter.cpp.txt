@@ -1,0 +1,35 @@
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\SubjectCharacter.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RootMotionSource.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Character.generated.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\ObserverPatternCharacter.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Inc\ObserverPattern\ObserverPatternCharacter.generated.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Inc\ObserverPattern\SubjectCharacter.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CameraComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ShapeComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CapsuleComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RVOAvoidanceInterface.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\MovementComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NavMovementComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\PawnMovementComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NetworkPredictionInterface.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementComponent.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\SpringArmComponent.generated.h

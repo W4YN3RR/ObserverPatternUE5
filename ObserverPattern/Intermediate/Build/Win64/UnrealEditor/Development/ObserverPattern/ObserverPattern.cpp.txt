@@ -1,0 +1,2 @@
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\ObserverPattern.h

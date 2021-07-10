@@ -1,0 +1,11 @@
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern/ObserverPatternCharacter.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RootMotionSource.generated.h
+C:\EpicGames\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Character.generated.h
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Inc\ObserverPattern\ObserverPatternCharacter.generated.h

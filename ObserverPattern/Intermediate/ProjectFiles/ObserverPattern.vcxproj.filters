@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ObserverPattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{190875B6-E564-406A-9B95-B1222BDDD9C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ObserverPattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ObserverPatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{60A96B67-7AA4-4AF4-9C1A-1EC1DF87C093}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ObserverPattern">
+      <UniqueIdentifier>{7B35EEA2-78C2-4CB6-8F76-89C40358346D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ObserverPattern\ObserverPattern.Build.cs">
+      <Filter>Source\ObserverPattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ObserverPattern\ObserverPattern.cpp">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverPattern\ObserverPattern.h">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverPattern\ObserverPatternCharacter.cpp">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverPattern\ObserverPatternCharacter.h">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverPattern\ObserverPatternGameMode.cpp">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverPattern\ObserverPatternGameMode.h">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ObserverPattern\SubjectCharacter.cpp">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ObserverPattern\SubjectCharacter.h">
+      <Filter>Source\ObserverPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

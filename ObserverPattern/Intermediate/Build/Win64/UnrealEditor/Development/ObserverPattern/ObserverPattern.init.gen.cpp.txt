@@ -1,0 +1,3 @@
+C:\Users\W4YN3R\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UnrealEditor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\EpicGames\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
